@@ -1,0 +1,13 @@
+git init - local repo tracking 
+git add "filename" adds to the repo
+git status  file status
+git commit -m 
+git log   willlist the commits 
+git push   push to remote repo
+git config --global user.name "name as in git"
+git config -- global user.email "add ur email id" 
+git remote add origin(remoterepo)  url of the repo 
+
+
+
+git log after commit 
