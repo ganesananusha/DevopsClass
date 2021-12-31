@@ -1,1 +1,5 @@
 first comit
+second commit
+
+git log
+git fourtcomit change
