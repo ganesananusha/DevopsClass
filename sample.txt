@@ -11,3 +11,4 @@ git remote add origin(remoterepo)  url of the repo
 
 
 git log after commit 
+git fetch and merge=pull
